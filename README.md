@@ -1,5 +1,5 @@
 
 # learngit
 learning git doc
-haha ÎÒµÄ learning git readme doc
+haha æˆ‘çš„ learning git readme doc
 
